@@ -53,7 +53,9 @@ precipitation, wind speed, etc.).
 ---
 ## Architecture diagram
 <img width="785" height="252" alt="image" src="https://github.com/user-attachments/assets/ae1faa8e-9ff2-416b-9205-cae432103dde" />
+
 ---
+
 ## Tech stack
 1. Programming Language
 - Python 3 – for data processing and visualization.
