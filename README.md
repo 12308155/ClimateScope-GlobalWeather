@@ -11,12 +11,15 @@ climate behavior over time, compare conditions across regions, and identify anom
 ultimate goal is to provide an accessible, data-driven platform that supports climate awareness,
 decision-making, and further research into global weather dynamics.
 ---
+
 ## Project workflow
 ### Data Acquisition
 - Download the Global Weather Repository dataset from
 Kaggle[https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/data
 ].
 - Ensure daily updates are synchronized if using the live version.
+- ## Dataset
+- ⚠️ The dataset is provided as a `.zip` file due to GitHub repository size limitations.  Please download and extract the file before running the project.
 ### Data Understanding & Exploration
 - Inspect dataset structure, data types, and key variables (temperature, humidity,
 precipitation, wind speed, etc.).
